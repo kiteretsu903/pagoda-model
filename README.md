@@ -1,6 +1,6 @@
 # pagoda-model
 
-# CS 175 Final Project: Bringing Architecture to Life - Modeling the Dragon and Tiger Pagoda
+# Bringing Architecture to Life - Modeling the Dragon and Tiger Pagoda
 
 **Helen He & Bozhen Peng**
 
